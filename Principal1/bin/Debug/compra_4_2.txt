@@ -1,5 +1,0 @@
-Nombre: vanessa
-Apellido Paterno: nava   Apellido Materno: alberto
-Correo: vn@gmail.com
-Contraseña: bts123
-Direccion normal  Telefono5557123389 

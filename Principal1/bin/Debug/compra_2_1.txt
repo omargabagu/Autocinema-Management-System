@@ -1,5 +1,0 @@
-Nombre: leonardo
-Apellido Paterno: chagoya   Apellido Materno: gonzalez
-Correo: leocingon@gmail.com
-Contraseña: chagoya27
-Direccion nicolas romero  Telefono5555521291 
