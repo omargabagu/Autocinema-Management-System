@@ -1,0 +1,5 @@
+Nombre: Omar
+Apellido Paterno: Aguirre   Apellido Materno: Cordova
+Correo: omargabagu@gmail.com
+Contraseña: 1234
+Direccion micasa123  Telefono5545819022 
