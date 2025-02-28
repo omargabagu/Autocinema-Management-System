@@ -21,4 +21,3 @@ A **C# Windows Forms** application for managing a drive-in movie theater, featur
 - **Programming Language:** C#  
 - **Framework:** Windows Forms  
 - **Database:** NoSQL (Object-Oriented)  
-- **Payment Integration:** Secure online transactions  
